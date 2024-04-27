@@ -1,4 +1,4 @@
 [build]
   command = "nx build analog-app"
-  publish = "dist/analog-app/client"
-  functions = "dist/analog-app/analog/server"
+  publish = "dist/analog-app/analog/public"
+  functions = "dist/analog-app/analog"
